@@ -1,7 +1,7 @@
 <a href="https://ibb.co/rcXKj59"><img src="https://i.ibb.co/P9VsL1k/banner-Linkedin.jpg" width="100%" height="100%" alt="banner-Linkedin" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Joan Gil Bosch</h1>
-<h3 align="center">I am a full stack student of a 850-hour bootcamp in which we have worked on backend and frontend</h3>
+<h3 align="center">I am a full stack developer of a 850-hour bootcamp in which we have worked on backend and frontend</h3>
 
 <h3 align="center">- 📫 How to reach me **jilbosch@icloud.com**</h3>
 
